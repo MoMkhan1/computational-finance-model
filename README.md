@@ -126,19 +126,7 @@ Read the full PDF report with theory, equations, and complete project documentat
 This project is licensed under the MIT License. See LICENSE for more information.
 
 
----
 
-If you'd like, I can help with any of the following:
 
-    Generate a version without inline images (just captions and figure numbers).
 
-    Add clickable links for LinkedIn, Thesis PDF, and Project Report PDF placeholders.
-
-    Format the final report and contact section with proper Markdown links and emojis.
-
-    Add badges for Python version, license, or build status.
-
-    Suggest improvements for making it more concise or tailored for GitHub or other hosting platforms.
-
-Let me know if you want me to generate any of those or customize further!
 
